@@ -18,7 +18,8 @@ Final Model Accuracy: **90%**
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
+``` 
 sentiment-analysis/
 │
 ├── data/
@@ -30,7 +31,8 @@ sentiment-analysis/
 ├── train.py
 ├── app.py
 ├── requirements.txt
-└── README.md
+└── README.md 
+```
 
 
 ---
