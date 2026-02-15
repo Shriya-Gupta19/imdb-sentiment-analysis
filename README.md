@@ -20,18 +20,15 @@ Final Model Accuracy: **90%**
 
 ##  Project Structure
 ``` 
-sentiment-analysis/
+imdb-sentiment-analysis/
 │
-├── data/
-│ └── IMDB Dataset.csv
-│
-├── model/
-│ └── sentiment_model.pkl
-│
-├── train.py
 ├── app.py
+├── train.py
 ├── requirements.txt
-└── README.md 
+├── README.md
+└── .gitignore
+
+
 ```
 
 
